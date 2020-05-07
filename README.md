@@ -38,4 +38,4 @@ Quickly, easily and automatically update your LFWeb.settings file to resolve any
 ### ─ Downloads
 | File Name        | Version           | Release Date  | Link |
 |:-------------:|:-------------:|:-------------:|:-------------:|
-| LegalFilesConfigMgr.exe | 2005.07.01 | May 7th, 2020 | [Download](https://www.google.com) |
+| LegalFilesConfigMgr.exe | 2005.07.01 | May 7th, 2020 | [Download](https://github.com/gage-faulkner/LFWebConfigMgr/raw/master/LegalFilesConfigMgr.exe) |
