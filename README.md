@@ -1,5 +1,6 @@
 # LFWebConfigMgr
 #### LegalFiles Web Settings Configuration Manager
+Quickly, easily and automatically update your LFWeb.settings file to resolve any issues with your existing Legal Files installation.
 
 ### Preview
 ![previewpicture](https://i.imgur.com/Z6kJ7Z7.png)
@@ -7,7 +8,12 @@
 ---
 
 ### What does this do?
-Checks for an existing installation of LegalFiles, grabs your stored Username & Password, overwrites your existing configuration file with a corrected version then restores your Username & Password from the previous version. In other words, it'll properly setup LegalFiles and the plugins quickly and easily.
+1. Checks for an existing installation of LegalFiles.
+2. Grabs your stored Username and Password.
+3. Overwrites your existing configuration file with a corrected version.
+4. Restores your Username & Password from the previous version. 
+
+*In other words, it'll properly setup LegalFiles and the plugins ─ without needing Administrative privileges.*
 
 ---
 
