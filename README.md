@@ -20,7 +20,7 @@ Quickly, easily and automatically update your LFWeb.settings file to resolve any
 ### How do I use it?
 - Download the application from the link below. 
 - Once the download is complete, double-click on it to run it. 
-- You may be prompted by a blue screen that says the application isn't downloaded often, click "More Options," and "Run Anyway."
+- You may be prompted by a blue screen that says the application isn't downloaded often, near the top find and click "More Info," and "Run Anyway."
 - Initially, the application will check to see if you have a pre-existing LFWeb.settings file.
   - If the application DOES NOT detect a pre-existing file, you'll see the Status along the bottom of the application change to "Error!" You will need to have LegalFiles either installed or re-installed on your machine.
   - If the application DOES detect a pre-existing file, you will be able to click the "Apply" button for the changes to take place. Please make sure that you close out of all applications before running this application.
@@ -28,6 +28,8 @@ Quickly, easily and automatically update your LFWeb.settings file to resolve any
 ---
 
 ### FAQ
+- **When I click the "Download" link below, Google Chrome says this file could be dangerous and only says "Discard"**
+  - Google Chrome automatically identifies applications that aren't downloaded regularly (meaning thousands of times by thousands of users.) Because this application is newly-created and isn't downloaded by users all over the world, Google takes the secure approach. This is a good thing but we want to bypass it. Click the "Up" arrow beside "Discard" and click, "Keep anyway."
 - **I'm hitting "Apply" but I get an error!**
   - Please forward the error message to your manager. These will need to be handled on a case-by-case basis.
 - **I'm hitting "Apply" and it says it went through successfully, but it doesn't seem to have worked!"**
